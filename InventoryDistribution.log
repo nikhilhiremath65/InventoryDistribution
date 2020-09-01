@@ -1,0 +1,30 @@
+INFO:root:Started
+INFO:root:Current Item = apple
+INFO:root:inventoryDetails = [{'name': 'owd', 'inventory': {'apple': 1}}]
+INFO:root:Current Inventory = {'name': 'owd', 'inventory': {'apple': 1}}
+INFO:root:warehouse: [{'name': 'owd', 'inventory': {'apple': 1}}]
+INFO:root:Current Item = apple
+INFO:root:inventoryDetails = [{'name': 'owd', 'inventory': {'apple': 0}}]
+INFO:root:Current Inventory = {'name': 'owd', 'inventory': {'apple': 0}}
+INFO:root:warehouse: [{'name': 'owd', 'inventory': {'apple': 0}}]
+INFO:root:Item apple quantity is not sufficient
+INFO:root:Current Item = apple
+INFO:root:inventoryDetails = [{'name': 'owd', 'inventory': {'apple': 1}}]
+INFO:root:Current Inventory = {'name': 'owd', 'inventory': {'apple': 1}}
+INFO:root:warehouse: [{'name': 'owd', 'inventory': {'apple': 1}}]
+INFO:root:Item apple quantity is not sufficient
+INFO:root:Current Item = mango
+INFO:root:inventoryDetails = [{'name': 'owd', 'inventory': {'mango': 15}}]
+INFO:root:Current Inventory = {'name': 'owd', 'inventory': {'mango': 15}}
+INFO:root:warehouse: [{'name': 'owd', 'inventory': {'mango': 15}}]
+INFO:root:Current Item = apple
+INFO:root:inventoryDetails = [{'name': 'owd', 'inventory': {'apple': 5}}, {'name': 'dm', 'inventory': {'apple': 5}}]
+INFO:root:Current Inventory = {'name': 'owd', 'inventory': {'apple': 5}}
+INFO:root:Current Inventory = {'name': 'dm', 'inventory': {'apple': 5}}
+INFO:root:warehouse: [{'name': 'owd', 'inventory': {'apple': 5}}, {'name': 'dm', 'inventory': {'apple': 5}}]
+INFO:root:Current Item = apple
+INFO:root:inventoryDetails = [{'name': 'owd', 'inventory': {'apple': 5}}, {'name': 'dm', 'inventory': {'apple': 5}}]
+INFO:root:Current Inventory = {'name': 'owd', 'inventory': {'apple': 5}}
+INFO:root:Current Inventory = {'name': 'dm', 'inventory': {'apple': 5}}
+INFO:root:warehouse: [{'name': 'owd', 'inventory': {'apple': 5}}, {'name': 'dm', 'inventory': {'apple': 5}}]
+INFO:root:Finished
